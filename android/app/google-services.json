@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "205965708378",
+    "project_id": "record-income",
+    "storage_bucket": "record-income.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205965708378:android:74fb85e25ae8c4ea231c63",
+        "android_client_info": {
+          "package_name": "com.example.record_income_expenses"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv8V-Z3EVBoDWQrQlFPv5818XLTm9oOTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
